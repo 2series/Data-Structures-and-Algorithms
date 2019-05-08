@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/WBO409BBXkgPS/giphy.gif)
+![](https://media.giphy.com/media/bIhA1ZazTlWI8/giphy.gif)
 
 ### Lesson 1 - Introduction and Efficiency
   * Efficiency:
