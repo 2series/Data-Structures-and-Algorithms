@@ -372,9 +372,3 @@
           - https://github.com/h5bp/Front-end-Developer-Interview-Questions
   * Blog Posts
       * Five Essential Phone Screen Questions: https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
-
-### Repasar
-  * Estructuras de estructura para un tree o heap, etc.
-      * Stack: you can do it with a LinkedList
-      * Queue: you can do it with an array
-  * Ejemplos de uso de trees
